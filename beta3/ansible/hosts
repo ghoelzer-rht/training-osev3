@@ -14,9 +14,9 @@ ansible_ssh_user=root
 
 # host group for masters
 [masters]
-ose3-master.example.com
+ghoelzer-osev3-beta3-mstr01a
 
 # host group for nodes
 [nodes]
-ose3-master.example.com
+ghoelzer-osev3-beta3-mstr01a
 #ose3-node[1:2].example.com
